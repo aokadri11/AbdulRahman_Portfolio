@@ -1,2 +1,2 @@
 # AbdulRahman_Portfolio
-This repository contains my Data Analytics portfolio projects ranging from SQL, PowerBi and Excel.
+This repository that I have created to showcase my skills and contains my Data Analytics portfolio projects ranging from SQL, PowerBi and Excel.
