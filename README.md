@@ -7,6 +7,7 @@ Hi, I'm Abdul Rahman! I am a highly motivated graduate with a passion for data a
  ---
 
 > My CV in [pdf](https://github.com/aokadri11/AbdulRahman_Portfolio/blob/main/Abdul_Rahman_Kadri_CV_2023_Data_Analysis.pdf) 
+---
 
 
 This repository that I have created to showcase my skills and contains my Data Analytics portfolio projects ranging from SQL, PowerBi and Excel.
