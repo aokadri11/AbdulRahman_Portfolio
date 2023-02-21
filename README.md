@@ -15,25 +15,22 @@ This repository that I have created to showcase my skills and contains my Data A
 
 ## Table of Contents
 - [About](#about)
+
 - [Power BI](#power-bi)
-	+ 
-	+
+
 - [SQL Query](#sql-query)  
-	+ 
-	+
+
 - [Excel Projects](#excel-projects)
-	+
-	+
 
 ---
 
-- [x] **Power Bi**  
+- ## **Power Bi**  
 
 
-- [x] **SQL Query** 
+- ## **SQL Query** 
 
 
-- [x] **Excel Projects**  
+- ## **Excel Projects**  
 
 *Kindly download these Excel files from this repository and view them in Microsoft Excel.*
 
