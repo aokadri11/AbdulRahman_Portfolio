@@ -20,19 +20,24 @@ This repository that I have created to showcase my skills and contains my Data A
 
 - [SQL Query](#sql-query)  
 
-- [Excel Projects](#excel-projects)
+- [Excel](#excel)
 
 ---
 
-- ## **Power Bi**  
+## **Power Bi**  
 
 
-- ## **SQL Query** 
+## **SQL Query** 
 
 
-- ## **Excel Projects**  
+## **Excel**  
 
 *Kindly download these Excel files from this repository and view them in Microsoft Excel.*
+
+- Pizza Sales: Sales Target Dashboard <br />
+![Dashboard](Pizza Sales Dashboard.PNG)
+
+
 
 - Data Cleaning Exercise1 - AmericaNewBank in [DCE1](https://github.com/aokadri11/AbdulRahman_Portfolio/blob/main/Abdul%20-%20AmericaBank%20-%20PB.xlsx)
 
