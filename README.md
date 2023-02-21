@@ -27,13 +27,13 @@ This repository that I have created to showcase my skills and contains my Data A
 
 ---
 
-- [x] **Power Bi** - 
+- [x] **Power Bi**  
 
 
-- [x] **SQL Query** - 
+- [x] **SQL Query** 
 
 
-- [x] **Excel Projects** - 
+- [x] **Excel Projects**  
 
 *Kindly download these Excel files from this repository and view them in Microsoft Excel.*
 
