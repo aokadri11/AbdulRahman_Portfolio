@@ -4,7 +4,6 @@
 
 Hi, I'm Abdul Rahman! I am a highly motivated graduate with a passion for data analysis. I have expertise in Excel, including pivot tables, data visualisation, data modelling, and SQL, with knowledge of stored procedures, CTEs, T-SQL, and SSMS. I also have experience with Power BI, including data visualisation, data modelling, and creating dashboards and reports.
 
- ---
 
 > My CV in [pdf](https://github.com/aokadri11/AbdulRahman_Portfolio/blob/main/Abdul_Rahman_Kadri_CV_2023_Data_Analysis.pdf) 
 ---
@@ -32,7 +31,7 @@ This repository that I have created to showcase my skills and contains my Data A
 
 ## **Excel**  
 
-*Kindly download these Excel files from this repository and view them in Microsoft Excel.*
+*Kindly download these Excel files from [this repository](https://github.com/aokadri11/AbdulRahman_Portfolio/blob/main/Excel) and view them in Microsoft Excel.*
 
 - Pizza Sales: Sales Target Dashboard <br />
     [Pizza Sales](https://github.com/aokadri11/AbdulRahman_Portfolio/blob/main/Excel/Abdul%20-%20Pizza%20Sales_Data_Modeling.xlsx)
