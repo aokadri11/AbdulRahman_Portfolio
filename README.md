@@ -35,15 +35,15 @@ This repository that I have created to showcase my skills and contains my Data A
 *Kindly download these Excel files from this repository and view them in Microsoft Excel.*
 
 - Pizza Sales: Sales Target Dashboard <br />
-    [Pizza Sales](Abdul%20-%20Pizza%20Sales_Data_Modeling.xlsx)
-![Dashboard](Pizza%20Sales%20Dashboard.PNG)
-
-![Pivot Table and Chart](Pivot%20Table%20in%20Pizza%20Sales.PNG)
+    [Pizza Sales](https://github.com/aokadri11/AbdulRahman_Portfolio/blob/main/Abdul%20-%20Pizza%20Sales_Data_Modeling.xlsx)
+![Dashboard](https://github.com/aokadri11/AbdulRahman_Portfolio/blob/main/Pizza%20Sales%20Dashboard.PNG)
+    - Pizza Sales: Pivot Table and Chart
+![Pivot Table and Chart](https://github.com/aokadri11/AbdulRahman_Portfolio/blob/main/Pivot%20Table%20in%20Pizza%20Sales.PNG)
 
 
 - Telephone Customer Sales <br />
-    [Telephone Customer](Abdul%20-%20Telephone%20Customer.xlsx)
-![Dashboard](TelePhone_Customer_Dashboard.PNG)
+    [Telephone Customer](https://github.com/aokadri11/AbdulRahman_Portfolio/blob/main/Abdul%20-%20Telephone%20Customer.xlsx)
+![Dashboard](https://github.com/aokadri11/AbdulRahman_Portfolio/blob/main/TelePhone_Customer_Dashboard.PNG)
 
 
 
