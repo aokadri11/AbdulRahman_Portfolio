@@ -62,8 +62,8 @@ This repository that I have created to showcase my skills and contains my Data A
         -   [Unicorn Companies](https://github.com/aokadri11/AbdulRahman_Portfolio/blob/main/Abdul%20-%20Unicorn_Companies.xlsx)
 
 - Data Modelling <br />
-    Data Modelling involves using the Pivot tab in the ribbon layer to link columns in different sheets that have a relationship. They are two types of data models which are Galaxy Schema and Star Schema. Below are two exercise connected in star and galaxy schema.
-        [Star Schema](https://github.com/aokadri11/AbdulRahman_Portfolio/blob/main/Star%20Schema%20Data%20Modeling.xlsx)
+    Data Modelling involves using the Pivot tab in the ribbon layer to link columns in different sheets that have a relationship. They are two types of data models which are Galaxy Schema and Star Schema. Below are two exercise connected in star and galaxy schema.<br />
+        [Star Schema](https://github.com/aokadri11/AbdulRahman_Portfolio/blob/main/Star%20Schema%20Data%20Modeling.xlsx)<br />
         [Galaxy Schema](https://github.com/aokadri11/AbdulRahman_Portfolio/blob/main/Abdul%20-%20Pizza%20Sales_Data_Modeling.xlsx)
 
 -VLOOKUP, HLOOKUP and XLOOKUP
