@@ -66,7 +66,7 @@ This repository that I have created to showcase my skills and contains my Data A
         -   [Star Schema](https://github.com/aokadri11/AbdulRahman_Portfolio/blob/main/Star%20Schema%20Data%20Modeling.xlsx)<br />
         -   [Galaxy Schema](https://github.com/aokadri11/AbdulRahman_Portfolio/blob/main/Abdul%20-%20Pizza%20Sales_Data_Modeling.xlsx)
 
--VLOOKUP, HLOOKUP and XLOOKUP <br />
+- VLOOKUP, HLOOKUP and XLOOKUP <br />
         -   [LOOKUP'S](https://github.com/aokadri11/AbdulRahman_Portfolio/blob/main/VLOOKUP_XLOOKUP%20sheet.xlsx)
 
 
