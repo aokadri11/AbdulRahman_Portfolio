@@ -35,7 +35,7 @@ This repository that I have created to showcase my skills and contains my Data A
 *Kindly download these Excel files from this repository and view them in Microsoft Excel.*
 
 - Pizza Sales: Sales Target Dashboard <br />
-![Dashboard](Pizza Sales Dashboard.PNG)
+![Dashboard](Pizza%20Sales%20Dashboard.PNG)
 
 
 
