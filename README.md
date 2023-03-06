@@ -25,7 +25,10 @@ This repository that I have created to showcase my skills and contains my Data A
 
 ## **Power Bi**  
 
-- [PowerBi](https://github.com/aokadri11/AbdulRahman_Portfolio/blob/main/PowerBi)<br />
+*Kindly download PowerBi images from [this repository](https://github.com/aokadri11/AbdulRahman_Portfolio/blob/main/PowerBi).* <br />
+
+*Click on respective project name to view the visualisation in Microsoft PowerBI.*
+
 
 - [Financial Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjczODIzZTgtN2MzNC00MzQ0LWJkZTYtNGYwNjYwZjUxZmU5IiwidCI6ImNlMGRmNDkyLTdmMzItNDNjZi1iMjk3LWVlMTM1NzYwZGExYiJ9)<br />
 
