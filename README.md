@@ -39,8 +39,9 @@ This repository that I have created to showcase my skills and contains my Data A
 
 ## **SQL Query** 
 
-- [SQL](https://github.com/aokadri11/AbdulRahman_Portfolio/blob/main/SQL)
-    Contains SQL Query's
+*Kindly download SQL Query's from [this repository](https://github.com/aokadri11/AbdulRahman_Portfolio/blob/main/SQL).* <br />
+
+    
 
 ## **Excel**  
 
