@@ -7,7 +7,7 @@ I am a recent graduate with a master’s degree in mechanical engineering. I dis
 
 
 
-> My CV in [pdf](https://github.com/aokadri11/AbdulRahman_Portfolio/blob/main/Abdul_Rahman_Kadri_Data_Analysis.pdf)
+> My CV in [pdf](https://github.com/aokadri11/AbdulRahman_Portfolio/blob/main/Abdul_Rahman_Kadri_Data_Analysis.pdf) <br />
 > [Linkedin](https://www.linkedin.com/in/abdulrahmankadri/) 
 ---
 
