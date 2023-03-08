@@ -7,7 +7,8 @@ I am a recent graduate with a master’s degree in mechanical engineering. I dis
 
 
 
-> My CV in [pdf](https://github.com/aokadri11/AbdulRahman_Portfolio/blob/main/Abdul_Rahman_Kadri_Data_Analysis.pdf) 
+> My CV in [pdf](https://github.com/aokadri11/AbdulRahman_Portfolio/blob/main/Abdul_Rahman_Kadri_Data_Analysis.pdf)
+> [Linkedin](https://www.linkedin.com/in/abdulrahmankadri/) 
 ---
 
 This repository that I have created to showcase my skills and contains my Data Analytics portfolio projects ranging from SQL, PowerBi and Excel.
